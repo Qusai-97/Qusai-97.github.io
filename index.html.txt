@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Family Website</title>
+</head>
+<body>
+  <h1>Welcome to Our Family Website</h1>
+  <p>Here we’ll share photos and videos.</p>
+
+  <h2>Family Photos</h2>
+  <img src="https://via.placeholder.com/400" alt="Family photo">
+
+  <h2>Family Videos</h2>
+  <!-- Example: YouTube embed -->
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+    title="Family Video" frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</body>
+</html>
